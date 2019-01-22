@@ -160,11 +160,11 @@ original picture
 
 
 
-![下载 (2)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载 (2).png)
+![下载 (2)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载%20(2).png)
 
 original image
 
-![下载 (3)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载 (3).png)
+![下载 (3)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载%20(3).png)
 
 histeq
 
