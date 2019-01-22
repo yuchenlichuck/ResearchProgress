@@ -46,21 +46,21 @@ PNEUMONIA：390
 
 CUDA_VISIBLE_DEVICES=0 
 
-![1547448002473](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547448002473.png)
+![1547448002473](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547448002473.png)
 
 
 
-![1547448924605](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547448924605.png)
+![1547448924605](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547448924605.png)
 
 x-Ray数据
 
 
 
-![1547455174775](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547455174775.png)
+![1547455174775](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547455174775.png)
 
 x-Ray again
 
-![1547458279921](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547458279921.png)
+![1547458279921](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547458279921.png)
 
 
 
@@ -72,7 +72,7 @@ run 10000 times
 
 
 
-![1547461806601](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547461806601.png)
+![1547461806601](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547461806601.png)
 
 Run DR and DMnotDR
 
@@ -80,21 +80,21 @@ Run DR and DMnotDR
 
 
 
-![1547464514654](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547464514654.png)
+![1547464514654](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547464514654.png)
 
-![1547465920689](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547465920689.png)
+![1547465920689](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547465920689.png)
 
-![1547474861432](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547474861432.png)
+![1547474861432](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547474861432.png)
 
 散瞳切过黑边的
 
 
 
-![1547516804273](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547516804273.png)
+![1547516804273](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547516804273.png)
 
 运行过50000次效果并没有提升
 
-![20090624000936-1748614830](C:\Users\PC\Desktop\DR\20090624000936-1748614830.jpg)\
+![20090624000936-1748614830](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/20090624000936-1748614830.jpg)\
 
 
 
@@ -104,13 +104,13 @@ Run DR and DMnotDR
 
 
 
-![timg](C:\Users\PC\Desktop\DR\timg.jpg)
+![timg](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/timg.jpg)
 
 
 
 
 
-![u=203080269,3007400771&fm=214&gp=0](C:\Users\PC\Desktop\DR\u=203080269,3007400771&fm=214&gp=0.jpg)
+![u=203080269,3007400771&fm=214&gp=0](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/u=203080269,3007400771&fm=214&gp=0.jpg)
 
 
 
@@ -122,7 +122,7 @@ Run DR and DMnotDR
 
 DR
 
-![do histeq function](C:\Users\PC\Desktop\DR\下载 (1).png)
+![do histeq function](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载 (1).png)
 
 
 
@@ -134,19 +134,19 @@ DR
 
 
 
-![1547537160598](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547537160598.png)
+![1547537160598](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547537160598.png)
 
 直方图
 
 
 
-![下载](C:\Users\PC\Desktop\DR\下载.png)
+![下载](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载.png)
 
 
 
 original picture
 
-![1547537208287](C:\Users\PC\AppData\Roaming\Typora\typora-user-images\1547537208287.png)
+![1547537208287](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/1547537208287.png)
 
 
 
@@ -160,11 +160,11 @@ original picture
 
 
 
-![下载 (2)](C:\Users\PC\Desktop\DR\下载 (2).png)
+![下载 (2)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载 (2).png)
 
 original image
 
-![下载 (3)](C:\Users\PC\Desktop\DR\下载 (3).png)
+![下载 (3)](https://github.com/yuchenlichuck/ResearchProgress/blob/master/typora-user-images/下载 (3).png)
 
 histeq
 
