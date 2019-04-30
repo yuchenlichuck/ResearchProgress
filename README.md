@@ -1,5 +1,3 @@
-
-
 Vocabulary：
 
 Diabetic retinopathy 糖尿病性视网膜病变
